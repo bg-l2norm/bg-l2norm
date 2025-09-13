@@ -1,14 +1,5 @@
 <!--  █████ M Y   G I T H U B   P R O F I L E  █████  -->
 
-<!-- ——— Hero Banner ——— -->
-<p align="center">
-  <!-- Prefer local fallback (store at /assets/hero.svg). If remote works for you, keep both. -->
-  <picture>
-    <source srcset="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:0d1117,100:1f6feb&text=Ben%20G.&fontSize=64&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20%40%20ASIET%20Kerala&descAlignY=60&animation=fadeIn" />
-    <img src="/assets/hero.svg" alt="Hero banner"/>
-  </picture>
-</p>
-
 <!-- ——— Typing Tagline ——— -->
 <p align="center">
   <a href="https://github.com/bg-l2norm">
@@ -121,8 +112,3 @@
 - GitHub: <a href="https://github.com/bg-l2norm">bg-l2norm</a>
 
 </details>
-
-<!-- ——— Footer banner (mirrors header for symmetry) ——— -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0d1117,100:1f6feb&section=footer" alt="Footer wave"/>
-</p>
