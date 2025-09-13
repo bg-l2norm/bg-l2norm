@@ -66,8 +66,6 @@
 
 <!-- Footer (extra retro flair) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" alt="Fan" height="60">
-  <br /><br />
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
   <br /><br />
 </div>
