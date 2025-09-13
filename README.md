@@ -70,5 +70,4 @@
   <br /><br />
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
   <br /><br />
-  <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="140">
 </div>
