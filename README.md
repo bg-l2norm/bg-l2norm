@@ -6,11 +6,7 @@
   <br /><br />
 </div>
 
-<div align="center">
-  <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
-
-<!-- Streak (transparent) -->
+<!-- Streak -->
 <p align="center">
   <img
     height="170"
@@ -18,7 +14,7 @@
     alt="Contribution streak: bg-l2norm" />
 </p>
 
-<!-- Toolbox (sepia-ish vintage badges, transparent vibes) -->
+<!-- Toolbox -->
 <p align="center">
   <a href="https://pytorch.org/">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-6b4e2e?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=6b4e2e" />
