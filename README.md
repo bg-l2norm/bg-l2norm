@@ -16,34 +16,8 @@
 
 <!-- Retro Counter (hit counter = old web vibes) -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bg-l2norm/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/bg-l2norm/count.svg" />
 </p>
-
-<!-- Retro “dashboard” layout -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-
-      <!-- GitHub Stats (transparent = blends with page like an old panel) -->
-      <img
-        height="170"
-        src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=transparent&hide_border=true"
-        alt="GitHub stats: bg-l2norm" />
-
-    </td>
-    <td width="50%" align="center" valign="top">
-
-      <!-- Top Languages (transparent) -->
-      <img
-        height="170"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=transparent&hide_border=true"
-        alt="Top languages: bg-l2norm" />
-
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <!-- Streak (transparent) -->
 <p align="center">
