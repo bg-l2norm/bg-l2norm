@@ -1,23 +1,14 @@
-<!--  █████  B E N   G .   •   V I N T A G E   G I T H U B   P R O F I L E  █████  -->
+<!--  █████  B E N   G E O R G E   •   G I T H U B   P R O F I L E  █████  -->
 
-<!-- "Hero" Header (classic welcome banner) -->
+<!-- "Hero" Header -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome to my GitHub Profile" />
   <br /><br />
 </div>
 
-<!-- ╔════════════════════════════════════════════════════════════╗
-     ║                     V I N T A G E   M E T R I C S         ║
-     ╚════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
   <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
-
-<!-- Retro Counter (hit counter = old web vibes) -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/bg-l2norm/count.svg" />
-</p>
 
 <!-- Streak (transparent) -->
 <p align="center">
@@ -75,11 +66,6 @@
     <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/guestbook.gif" alt="Guest book" height="36">
   </a>
 </div>
-
-<!-- Guestbook Table (add new rows at the top) -->
-| Name | Date | Message |
-|---|---|---|
-| <!-- Example row; add yours below this line --> | <!-- YYYY-MM-DD --> | <!-- Your message here --> |
 
 <br />
 
