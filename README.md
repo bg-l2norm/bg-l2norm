@@ -4,36 +4,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome to my GitHub Profile" />
   <br /><br />
-  <!-- Personal note in a serif vibe -->
-  <em>Ben G. — Applied ML & Computer Vision — Kerala</em>
-  <br /><br />
 </div>
-
-<!-- Social + Fun -->
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/bg-l2norm">
-        <strong>Visit my GitHub</strong><br /><br />
-        <img alt="Computer" height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif">
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/ben-g-a00584250/">
-        <strong>Connect on LinkedIn</strong><br /><br />
-        <img alt="Globe" height="80" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif">
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/bg-l2norm?tab=repositories">
-        <strong>Browse my projects</strong><br /><br />
-        <img alt="Website" height="80" src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/website.gif">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <!-- Vintage marquee -->
 <div align="center">
@@ -43,7 +14,7 @@
 <!-- Bio -->
 <p align="center">
   7th-semester <b>CSE undergrad</b> at <b>Adi Shankara Institute of Engineering &amp; Technology</b>, Kerala.<br/>
-  <i>Former Intern, SBI (2025)</i>
+  <i>Previously Intern, SBI (2025)</i>
 </p>
 
 <!-- Arch/Hyprland wink -->
