@@ -2,17 +2,26 @@
 
 <!-- ——— Hero Banner ——— -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:0d1117,100:1f6feb&text=Ben%20G.&fontSize=64&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20%40%20ASIET%20(Kerala)&descAlignY=60&animation=fadeIn" alt="Hero banner"/>
+  <!-- Prefer local fallback (store at /assets/hero.svg). If remote works for you, keep both. -->
+  <picture>
+    <source srcset="https://capsule-render.vercel.app/api?type=wave&height=250&color=0:0d1117,100:1f6feb&text=Ben%20G.&fontSize=64&fontAlignY=40&desc=Computer%20Science%20%26%20Engineering%20%40%20ASIET%20Kerala&descAlignY=60&animation=fadeIn" />
+    <img src="/assets/hero.svg" alt="Hero banner"/>
+  </picture>
 </p>
 
 <!-- ——— Typing Tagline ——— -->
 <p align="center">
   <a href="https://github.com/bg-l2norm">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=NLP+%26+Computer+Vision+enthusiast;Best+Paper+Award+—+ICSCC+2023+(IEEE);Best+Poster+—+IIIT+Kottayam+Internship;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Applied+AI" alt="Typing tagline"/>
+    <!-- Fully URL-encoded lines (mdash, parens encoded). Add a local PNG/GIF fallback if needed. -->
+    <picture>
+      <source srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=NLP%20%26%20Computer%20Vision%20Enthusiast;Best%20Paper%20Award%20%E2%80%94%20ICSCC%202023%20%28IEEE%29;Best%20Poster%20%E2%80%94%20IIIT%20Kottayam%20Internship;Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Applied%20AI" />
+      <img src="/assets/tagline.png" alt="Typing tagline"/>
+    </picture>
   </a>
 </p>
 
-<!-- ——— Compact Bio ——— -->
+
+<!-- ——— Bio ——— -->
 <p align="center">
   7th-semester <b>CSE undergrad</b> at <b>Adi Shankara Institute of Engineering & Technology</b>, Kerala.<br/>
   Intern @ <b>SBI</b> (2025) <br/>
@@ -76,13 +85,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bg-l2norm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&hide_border=true" alt="Activity graph"/>
 </p>
 
-<!-- ——— Replacement for the classic “snake” ———
-     Using a 3D contribution graph (sleek + unobtrusive).
-     Set up the GitHub Action noted below; the image path can be adjusted to your output.
--->
+<!-- ——— Insightful Summary Cards ——— -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="170" alt="Profile details"/>
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="Stats"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most commit language"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170" alt="Productive time"/>
+</p>
+
 
 ---
 
