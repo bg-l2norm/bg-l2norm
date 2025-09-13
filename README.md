@@ -1,34 +1,90 @@
-<!--  █████  B E N   G .   •    G I T H U B   P R O F I L E  █████  -->
+<!--  █████  M Y   G I T H U B   P R O F I L E  █████  -->
 
-<!-- "Hero" Header -->
+<!-- "Hero" Header (classic welcome banner) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome to my GitHub Profile" />
   <br /><br />
 </div>
 
-<!-- Vintage marquee -->
+<!-- ╔════════════════════════════════════════════════════════════╗
+     ║                     M E T R I C S                          ║
+     ╚════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
-<!-- Bio -->
+<!-- Counter -->
 <p align="center">
-  7th-semester <b>CSE undergrad</b> at <b>Adi Shankara Institute of Engineering &amp; Technology</b>, Kerala.<br/>
-  <i>Previously Intern, SBI (2025)</i>
-</p>
-
-<!-- Arch/Hyprland wink -->
-<p align="center">
-  <em>I use Arch, btw.</em>
-</p>
-
-<hr/>
-
-<!-- Retro badges / counters -->
-<div align="center">
-  <!-- Visitor counter -->
   <img src="https://profile-counter.glitch.me/bg-l2norm/count.svg" alt="Visitor Count" />
-  <br /><br />
+</p>
+
+<!-- Dashboard layout -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+      <!-- GitHub Stats (transparent = blends with page like an old panel) -->
+      <img
+        height="170"
+        src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=transparent&hide_border=true"
+        alt="GitHub stats: bg-l2norm" />
+
+    </td>
+    <td width="50%" align="center" valign="top">
+
+      <!-- Top Languages (transparent) -->
+      <img
+        height="170"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=transparent&hide_border=true"
+        alt="Top languages: bg-l2norm" />
+
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Streak (transparent) -->
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=bg-l2norm&theme=transparent&hide_border=true"
+    alt="Contribution streak: bg-l2norm" />
+</p>
+
+<!-- Activity Graph (sepia-ish vintage tones, transparent bg) -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bg-l2norm&bg_color=ffffff00&color=6b4e2e&line=b58863&point=4b3f2f&area=true&area_color=d1bFA3&hide_border=true"
+    alt="Activity graph: bg-l2norm" />
+</p>
+
+<!-- lowlighter/metrics collage (shows when your Action generates metrics.svg) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/metrics.svg"
+    alt="Metrics collage (lowlighter/metrics)" />
+</p>
+
+<!-- Optional Summary Cards (uncomment after you set up 'profile-summary-card-output')
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/0-profile-details.svg" height="170" alt="Profile details"/>
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/3-stats.svg" height="170" alt="Stats"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/1-repos-per-language.svg" height="170" alt="Repos per language"/>
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/2-most-commit-language.svg" height="170" alt="Most commit language"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/4-productive-time.svg" height="170" alt="Productive time"/>
+</p>
+-->
+
+<br />
+
+<!-- Vintage badges (purely decorative for the style) -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="Welcome" height="45" />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="45" />
@@ -36,12 +92,12 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" height="45" />
 </div>
 
-<hr/>
+<br />
 
-<!-- Guestbook CTA -->
+<!-- Guestbook CTA (vintage staple) -->
 <div align="center">
-  <p>Sign my guestbook:</p>
-  <a href="https://github.com/bg-l2norm/bg-l2norm/issues/new?title=Guestbook%20entry&body=Name%3A%20%0AMessage%3A%20%0A">
+  <p><strong>Sign my guestbook:</strong></p>
+  <a href="https://github.com/bg-l2norm/bg-l2norm/issues/new?title=Guestbook%20entry&body=Name%3A%20%0ADate%3A%20%0AMessage%3A%20">
     <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/guestbook.gif" alt="Guest book" height="36">
   </a>
 </div>
@@ -51,65 +107,13 @@
 |---|---|---|
 | <!-- Example row; add yours below this line --> | <!-- YYYY-MM-DD --> | <!-- Your message here --> |
 
-<hr/>
+<br />
 
-<!-- A tiny “about” column like old homepages -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">What I work on</h3>
-      <ul>
-        <li>Natural Language Processing (LLMs, evaluation, prompting, light finetuning)</li>
-        <li>Computer Vision (image processing, segmentation, detection)</li>
-        <li>Data-centric ML: reproducible experiments &amp; clean baselines</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Tools I touch</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="PyTorch"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28" alt="TensorFlow"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="OpenCV"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="pandas"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="NumPy"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28" alt="scikit-learn"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="FastAPI"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<!-- “Nerdy stats” live section (kept simple, still works out-of-the-box) -->
-<div align="center">
-
-  <!-- If you already generate metrics.svg, this will show; otherwise comment it out until you enable it. -->
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/metrics.svg" alt="Metrics collage" />
-
-  <br/><br/>
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
-
-  <br/><br/>
-
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bg-l2norm&theme=transparent&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<hr/>
-
-<!-- Footer -->
+<!-- Footer (extra retro flair) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" alt="Fan" height="60">
   <br /><br />
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
   <br /><br />
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="140">
-  <br /><br />
-  <sub>© Ben G. — calm software, careful experiments, clear results.</sub>
 </div>
