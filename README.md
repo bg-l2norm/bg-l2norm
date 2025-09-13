@@ -19,7 +19,7 @@
 
 <!-- Arch/Hyprland wink -->
 <p align="center">
-  <em>I run Arch + Hyprland, btw.</em>
+  <em>I use Arch, btw.</em>
 </p>
 
 <hr/>
