@@ -11,6 +11,7 @@
 </div>
 
 <!-- Streak (transparent) -->
+<h3 align="center">Contribution Streak</h3>
 <p align="center">
   <img
     height="170"
@@ -18,14 +19,42 @@
     alt="Contribution streak: bg-l2norm" />
 </p>
 
-<!-- Activity Graph (sepia-ish vintage tones, transparent bg) -->
+<br />
+
+<!-- Toolbox (replaces the Activity Graph) -->
+<h3 align="center">Toolbox • what I mainly use</h3>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bg-l2norm&bg_color=ffffff00&color=6b4e2e&line=b58863&point=4b3f2f&area=true&area_color=d1bFA3&hide_border=true"
-    alt="Activity graph: bg-l2norm" />
+  <a href="https://pytorch.org/">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-6b4e2e?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-6b4e2e?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://github.com/huggingface/peft">
+    <img alt="PEFT" src="https://img.shields.io/badge/PEFT-6b4e2e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://geopandas.org/">
+    <img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-6b4e2e?style=for-the-badge&logo=pandas&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://matplotlib.org/">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-6b4e2e?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-6b4e2e?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://opencv.org/">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-6b4e2e?style=for-the-badge&logo=opencv&logoColor=white&labelColor=6b4e2e" />
+  </a>
+  <a href="https://huggingface.co/docs/transformers/index">
+    <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face%20Transformers-6b4e2e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=6b4e2e" />
+  </a>
 </p>
 
 <br />
+
+<div align="center">
+  <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
 
 <!-- Vintage badges (purely decorative for the style) -->
 <div align="center">
