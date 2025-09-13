@@ -5,6 +5,7 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome to my GitHub Profile" />
   <br /><br />
 </div>
+
 <!-- Streak -->
 <p align="center">
   <img
@@ -14,32 +15,47 @@
 </p>
 
 <!-- Toolbox -->
-<p align="center">
-  <a href="https://pytorch.org/">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FF1744?style=for-the-badge&logo=pytorch&logoColor=white" />
+<div align="center">
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://cdn.simpleicons.org/pytorch/FF1744" alt="PyTorch" height="44" />
+    <br /><sub>PyTorch</sub>
   </a>
-  <a href="https://www.tensorflow.org/">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF9100?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="44" />
+    <br /><sub>TensorFlow</sub>
   </a>
-  <a href="https://github.com/huggingface/peft">
-    <img alt="PEFT" src="https://img.shields.io/badge/PEFT-FFD300?style=for-the-badge&logo=huggingface&logoColor=000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/huggingface/peft" title="PEFT (Hugging Face)">
+    <img src="https://cdn.simpleicons.org/huggingface/FF00A8" alt="PEFT" height="44" />
+    <br /><sub>PEFT</sub>
   </a>
-  <a href="https://geopandas.org/">
-    <img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-00E5FF?style=for-the-badge&logo=pandas&logoColor=000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://geopandas.org/" title="GeoPandas">
+    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.svg" alt="GeoPandas" height="44" />
+    <br /><sub>GeoPandas</sub>
   </a>
-  <a href="https://matplotlib.org/">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/" title="Matplotlib">
+    <img src="https://cdn.simpleicons.org/matplotlib/8A2BE2" alt="Matplotlib" height="44" />
+    <br /><sub>Matplotlib</sub>
   </a>
-  <a href="https://scikit-learn.org/">
-    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-00FF6A?style=for-the-badge&logo=scikitlearn&logoColor=000000" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" title="Scikit-learn">
+    <img src="https://cdn.simpleicons.org/scikitlearn/00FF6A" alt="Scikit-learn" height="44" />
+    <br /><sub>Scikit-learn</sub>
   </a>
-  <a href="https://opencv.org/">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-00B3FF?style=for-the-badge&logo=opencv&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/" title="OpenCV">
+    <img src="https://cdn.simpleicons.org/opencv/00B3FF" alt="OpenCV" height="44" />
+    <br /><sub>OpenCV</sub>
   </a>
-  <a href="https://huggingface.co/docs/transformers/index">
-    <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FF0080?style=for-the-badge&logo=huggingface&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/docs/transformers/index" title="Hugging Face Transformers">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD300" alt="Hugging Face Transformers" height="44" />
+    <br /><sub>Transformers</sub>
   </a>
-</p>
+</div>
 
 <br />
 
