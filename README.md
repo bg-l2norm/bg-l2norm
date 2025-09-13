@@ -11,7 +11,6 @@
 </div>
 
 <!-- Streak (transparent) -->
-<h3 align="center">Contribution Streak</h3>
 <p align="center">
   <img
     height="170"
@@ -19,10 +18,7 @@
     alt="Contribution streak: bg-l2norm" />
 </p>
 
-<br />
-
-<!-- Toolbox (replaces the Activity Graph) -->
-<h3 align="center">Toolbox • what I mainly use</h3>
+<!-- Toolbox (sepia-ish vintage badges, transparent vibes) -->
 <p align="center">
   <a href="https://pytorch.org/">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-6b4e2e?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=6b4e2e" />
@@ -40,7 +36,7 @@
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-6b4e2e?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=6b4e2e" />
   </a>
   <a href="https://scikit-learn.org/">
-    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-6b4e2e?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=6b4e2e" />
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-6b4e2e?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=6b4e2e" />
   </a>
   <a href="https://opencv.org/">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-6b4e2e?style=for-the-badge&logo=opencv&logoColor=white&labelColor=6b4e2e" />
@@ -51,10 +47,6 @@
 </p>
 
 <br />
-
-<div align="center">
-  <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
 
 <!-- Vintage badges (purely decorative for the style) -->
 <div align="center">
