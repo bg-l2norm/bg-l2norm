@@ -25,27 +25,6 @@
     alt="Activity graph: bg-l2norm" />
 </p>
 
-<!-- lowlighter/metrics collage (shows when your Action generates metrics.svg) -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/metrics.svg"
-    alt="Metrics collage (lowlighter/metrics)" />
-</p>
-
-<!-- Optional Summary Cards (uncomment after you set up 'profile-summary-card-output')
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/0-profile-details.svg" height="170" alt="Profile details"/>
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/3-stats.svg" height="170" alt="Stats"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/1-repos-per-language.svg" height="170" alt="Repos per language"/>
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/2-most-commit-language.svg" height="170" alt="Most commit language"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/profile-summary-card-output/solarized/4-productive-time.svg" height="170" alt="Productive time"/>
-</p>
--->
-
 <br />
 
 <!-- Vintage badges (purely decorative for the style) -->
