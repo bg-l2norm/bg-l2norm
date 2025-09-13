@@ -1,4 +1,4 @@
-<!--  █████  M Y   G I T H U B   P R O F I L E  █████  -->
+<!--  █████  B E N   G .   •   V I N T A G E   G I T H U B   P R O F I L E  █████  -->
 
 <!-- "Hero" Header (classic welcome banner) -->
 <div align="center">
@@ -7,19 +7,19 @@
 </div>
 
 <!-- ╔════════════════════════════════════════════════════════════╗
-     ║                     M E T R I C S                          ║
+     ║                     V I N T A G E   M E T R I C S         ║
      ╚════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
   <img height="120" width="100%" alt="Marquee divider" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
-<!-- Counter -->
+<!-- Retro Counter (hit counter = old web vibes) -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/bg-l2norm/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- Dashboard layout -->
+<!-- Retro “dashboard” layout -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
