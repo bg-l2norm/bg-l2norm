@@ -1,72 +1,49 @@
-<!--  █████  B E N   G E O R G E   •   G I T H U B   P R O F I L E  █████  -->
-
-<!-- "Hero" Header -->
+<!-- HEADER: Typing Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" alt="Welcome to my GitHub Profile" />
-  <br /><br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ben+George;AI+%2F+ML+Engineer;Training+Models+%26+Crunching+Data;Welcome+to+my+repo" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Streak -->
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=bg-l2norm&theme=transparent&hide_border=true&ring=FF0080&fire=FF6F00&currStreakNum=00E5FF&sideNums=FFD300&currStreakLabel=8A2BE2&sideLabels=00FF6A&dates=00B3FF"
-    alt="Contribution streak: bg-l2norm" />
-</p>
+<!-- 3D VISUAL: Floating Tech (or replace with your own 3D GIF) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+</div>
 
-<!-- Toolbox -->
-<p align="center">
-  <a href="https://pytorch.org/">
-    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FF1744?style=for-the-badge&logo=pytorch&logoColor=white" />
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF9100?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </a>
-  <a href="https://github.com/huggingface/peft">
-    <img alt="PEFT" src="https://img.shields.io/badge/PEFT-FFD300?style=for-the-badge&logo=huggingface&logoColor=000000" />
-  </a>
-  <a href="https://geopandas.org/">
-    <img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-00E5FF?style=for-the-badge&logo=pandas&logoColor=000000" />
-  </a>
-  <a href="https://matplotlib.org/">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-00FF6A?style=for-the-badge&logo=scikitlearn&logoColor=000000" />
-  </a>
-  <a href="https://opencv.org/">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-00B3FF?style=for-the-badge&logo=opencv&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/docs/transformers/index">
-    <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FF0080?style=for-the-badge&logo=huggingface&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <h3> 🧠 Neural Networks & Data Magic 🪄</h3>
+</div>
 
+<!-- INTERACTIVE/AESTHETIC ICONS -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python,git,docker,linux,wandb,gcp&perline=10&theme=dark" />
+  </a>
+</div>
 <br />
 
-<!-- Vintage badges (purely decorative for the style) -->
+<!-- 3D STATS & CONTRIBUTIONS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="Welcome" height="45" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" height="45" />
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" height="45" />
+  <!-- Top: GitHub Trophies (Gamification) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bg-l2norm&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  <br/><br/>
+  
+  <!-- Middle: Stats Card & Streak (Side by Side) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="160" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bg-l2norm&theme=radical&hide_border=true&background=00000000" height="160" alt="streak graph"  />
+
+  <br/><br/>
+
+  <!-- Bottom: The Famous Snake Animation -->
+  <!-- NOTE: You must set up the GitHub Action for this to update. See instructions below. -->
+  <img src="https://github.com/bg-l2norm/bg-l2norm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br />
 
-<!-- Guestbook CTA (vintage staple) -->
+<!-- FOOTER: Modern Waving Capsule -->
 <div align="center">
-  <p><strong>Sign my guestbook:</strong></p>
-  <a href="https://github.com/bg-l2norm/bg-l2norm/issues/new?title=Guestbook%20entry&body=Name%3A%20%0ADate%3A%20%0AMessage%3A%20">
-    <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/guestbook.gif" alt="Guest book" height="36">
-  </a>
-</div>
-
-<br />
-
-<!-- Footer (extra retro flair) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
-  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=40"/>
 </div>
