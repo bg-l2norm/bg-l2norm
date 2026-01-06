@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h3> 🧠 Neural Networks & Data Magic 🪄</h3>
+  <h3> 🧠 Neural Networks & Data Analysis 🪄</h3>
 </div>
 
 <!-- INTERACTIVE/AESTHETIC ICONS -->
