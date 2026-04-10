@@ -1,7 +1,7 @@
 <!-- HEADER: Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ben+George;AI+%2F+ML+Engineer;Training+Models+%26+Crunching+Data;Welcome+to+my+repo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ben+George;I+build+AI+Agents;I+optimize+LLMs;I+explore+Computer+Vision;I+create+Open+Source+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,25 +22,52 @@
 </div>
 <br />
 
-<!-- 3D STATS & CONTRIBUTIONS -->
+<!-- CUTE & COOL DESKTOP LAYOUT -->
 <div align="center">
-  <!-- Top: GitHub Trophies (Gamification) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bg-l2norm&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <h3>✨ Connect With Me ✨</h3>
+  <a href="https://github.com/bg-l2norm">
+    <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/github.png" alt="GitHub" width="80" style="margin: 0 10px;" />
   </a>
-  <br/><br/>
-  
-  <!-- Middle: Stats Card & Streak (Side by Side) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="160" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bg-l2norm&theme=radical&hide_border=true&background=00000000" height="160" alt="streak graph"  />
-
-  <br/><br/>
-
-  <!-- Bottom: The Famous Snake Animation -->
-  <!-- NOTE: You must set up the GitHub Action for this to update. See instructions below. -->
-  <img src="https://github.com/bg-l2norm/bg-l2norm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://linkedin.com/in/ben-george">
+    <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/linked.png" alt="LinkedIn" width="80" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:contact@example.com">
+    <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/mail.png" alt="Email" width="80" style="margin: 0 10px;" />
+  </a>
 </div>
 
+<br />
+
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 20px;">
+        <a href="https://github.com/bg-l2norm/hermes-agent">
+          <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/folder.png" alt="Hermes Agent" width="100" />
+          <br /><b>hermes-agent</b>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <a href="https://github.com/bg-l2norm/awesome-ai-agent-papers--">
+          <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/folder.png" alt="AI Agent Papers" width="100" />
+          <br /><b>AI Agent Papers</b>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <a href="https://github.com/bg-l2norm/unsloth-zoo">
+          <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/folder.png" alt="Unsloth Zoo" width="100" />
+          <br /><b>unsloth-zoo</b>
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <a href="https://github.com/bg-l2norm/analysis-of-muon-optimizer-in-llms">
+          <img src="https://raw.githubusercontent.com/bg-l2norm/bg-l2norm/main/txt.png" alt="Notes" width="100" />
+          <br /><b>Muon Optimizer Notes</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br />
 
 <!-- FOOTER: Modern Waving Capsule -->
