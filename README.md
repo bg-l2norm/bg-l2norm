@@ -23,10 +23,6 @@
 <br />
 
 <p align="center">
-  <img src="./metrics.base.svg" alt="GitHub profile metrics" width="100%" />
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
 </p>
 
