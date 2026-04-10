@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bg-l2norm&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bg-l2norm&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
