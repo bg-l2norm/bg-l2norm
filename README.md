@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://github.com/bg-l2norm">
-    <img src="https://img.shields.io/badge/GitHub-bg--l2norm-0d1117?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-bg--l2norm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/ben-george">
     <img src="https://img.shields.io/badge/LinkedIn-Ben%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:bengeorge1001@gmail.com">
+  <a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -27,13 +27,19 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="49%" />
-  <img src="./metrics.plugin.languages.details.svg" alt="Most used languages" width="49%" />
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.repositories.pinned.svg" alt="Pinned repositories" width="49%" />
-  <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="49%" />
+  <img src="./metrics.plugin.languages.details.svg" alt="Most used languages" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.repositories.featured.svg" alt="Featured repositories" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="100%" />
 </p>
 
 ---
