@@ -34,15 +34,10 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.languages.details.svg" alt="Most used languages" width="100%" />
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="100%" />
 </p>
 
----
-
 <p align="center">
-  <sub>Auto-generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
+  <img src="./metrics.plugin.languages.details.svg" alt="Most used languages" width="100%" />
 </p>
+
