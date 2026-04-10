@@ -31,10 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.repositories.featured.svg" alt="Featured repositories" width="100%" />
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="100%" />
 </p>
 
