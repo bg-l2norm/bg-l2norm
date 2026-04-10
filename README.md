@@ -30,14 +30,14 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="100%" />
 </p>
 
 <p align="center">
   <img src="./metrics.plugin.languages.details.svg" alt="Most used languages" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
 </p>
 
