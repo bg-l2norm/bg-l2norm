@@ -22,6 +22,11 @@
 </div>
 <br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bg-l2norm&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+<br />
+
 <!-- CUTE & COOL DESKTOP LAYOUT -->
 <div align="center">
   <h3>✨ Connect With Me ✨</h3>
