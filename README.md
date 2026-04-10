@@ -23,6 +23,13 @@
 <br />
 
 <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=bg-l2norm&background=0D1117&border=30363D&stroke=30363D&ring=FF9D00&fire=FF9D00&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=FF9D00&sideLabels=E5E7EB&dates=9CA3AF"
+    alt="GitHub Contributions and Streak"
+  />
+</p>
+
+<p align="center">
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric contribution calendar" width="100%" />
 </p>
 
