@@ -6,12 +6,12 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=bg-l2norm&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"
-    alt="GitHub Stats"
+    src="https://streak-stats.demolab.com?user=bg-l2norm&theme=dark&hide_border=true&background=00000000"
+    alt="GitHub Contributions and Streak"
   />
   <br />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=dark&hide_border=true"
     alt="Top Languages"
   />
 </div>
