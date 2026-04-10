@@ -6,12 +6,12 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=bg-l2norm&theme=dark&hide_border=true&background=00000000"
+    src="https://streak-stats.demolab.com?user=bg-l2norm&background=0D1117&border=30363D&stroke=30363D&ring=FF9D00&fire=FF9D00&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=FF9D00&sideLabels=E5E7EB&dates=9CA3AF"
     alt="GitHub Contributions and Streak"
   />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bg-l2norm&layout=compact&langs_count=8&card_width=360&bg_color=0D1117&title_color=FF9D00&text_color=E5E7EB&border_color=30363D"
     alt="Top Languages"
   />
 </div>
