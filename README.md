@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/ben-george">
     <img src="https://img.shields.io/badge/LinkedIn-Ben%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="mailto:bengeorge1001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -32,12 +32,8 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.languages.recent.svg" alt="Recently used languages" width="49%" />
   <img src="./metrics.plugin.repositories.pinned.svg" alt="Pinned repositories" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="100%" />
+  <img src="./metrics.plugin.notable.svg" alt="Notable contributions" width="49%" />
 </p>
 
 ---
