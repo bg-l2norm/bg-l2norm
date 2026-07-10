@@ -12,9 +12,6 @@
   <a href="https://github.com/bg-l2norm">
     <img src="https://img.shields.io/badge/GitHub-bg--l2norm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/ben-george">
-    <img src="https://img.shields.io/badge/LinkedIn-Ben%20George-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:bengeorge1001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
