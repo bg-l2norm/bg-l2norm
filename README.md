@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building practical systems for agentic workflows, applied ML, evaluation, and optimization.
+  Building practical systems for applied ML.
 </p>
 
 <p align="center">
