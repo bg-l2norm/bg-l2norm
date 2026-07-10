@@ -1,7 +1,7 @@
 <h1 align="center">Ben George</h1>
 
 <p align="center">
-  <strong>AI Agents • LLM Optimization • NLP • Data Science • Computer Vision</strong>
+  <strong> • NLP • Data Science • Computer Vision</strong>
 </p>
 
 <p align="center">
